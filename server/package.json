@@ -1,5 +1,5 @@
 {
-  "name": "ceberus",
+  "name": "cerberus",
   "version": "1.0.0",
   "description": "A project management application. Built from scratch in Node with EJS, Express, and Sequelize.",
   "main": "index.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anivanchen/ceberus.git"
+    "url": "git+https://github.com/anivanchen/cerberus.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anivanchen/ceberus/issues"
+    "url": "https://github.com/anivanchen/cerberus/issues"
   },
   "homepage": ".",
   "dependencies": {

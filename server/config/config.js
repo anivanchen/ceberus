@@ -4,7 +4,7 @@ module.exports = {
   development: {
     username: "postgres",
     password: DATABASE_PASS,
-    database: "projectman",
+    database: "cerberus",
     host: "localhost",
     dialect: "postgres",
     logging: true,
@@ -12,7 +12,7 @@ module.exports = {
   production: {
     username: "postgres",
     password: DATABASE_PASS,
-    database: "projectman",
+    database: "cerberus",
     host: "localhost",
     dialect: "postgres",
     logging: true,

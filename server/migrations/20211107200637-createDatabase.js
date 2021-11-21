@@ -2,10 +2,10 @@
 
 module.exports = {
   up: async (queryInterface, Sequelize) => [
-    queryInterface.createDatabase("projectman"),
+    queryInterface.createDatabase("cerberus"),
   ],
 
   down: async (queryInterface, Sequelize) => [
-    queryInterface.dropDatabase("projectman"),
+    queryInterface.dropDatabase("cerberus"),
   ],
 };
